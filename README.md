@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mucahitcigci
 - 👀 Yazılımın yanısıra Sanat, Edebiyat, Felsefe, Bilim, Tarih, Matematik gibi alanlarla ilgileniyorum
 - 🌱 Front-end kısmında React.js öğreniyorum
-- 📫 How to reach me: cmucayit@gmail.com - Web Site: mucahitcigci.com
+- 📫 How to reach me: cmucayit@gmail.com - Web Site: https://mucahitcigci.com
 
 
 <!---
