@@ -4,7 +4,7 @@
 - 📫 Bana nasıl ulaşabilirsin: cmucayit@gmail.com - Web Site: https://mucahitcigci.com 
 
 - ✨ Sosyal Medya 
-
+Linkedin: https://www.linkedin.com/in/mucahitcigci/
 <!---
 mucahitcigci/mucahitcigci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
